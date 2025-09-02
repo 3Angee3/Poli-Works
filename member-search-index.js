@@ -1,1 +1,1 @@
-memberSearchIndex = [{"p":"<Unnamed>","c":"PracticePoli","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"PracticePoli","l":"PracticePoli()","u":"%3Cinit%3E()"}];updateSearchResults();
+memberSearchIndex = [{"p":"<Unnamed>","c":"Multiple1000","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"Multiple1000","l":"Multiple1000()","u":"%3Cinit%3E()"}];updateSearchResults();
