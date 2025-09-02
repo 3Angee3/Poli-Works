@@ -23,7 +23,7 @@ public class PracticePoli
      * Main method that executes the ATM flow
      *
      */
-    public static void main(String[] args) {
+    public static void main(String[]args) {
         Scanner sc = new Scanner(System.in);
         int balance = 500000; //Opening balance
         int withdraw;
