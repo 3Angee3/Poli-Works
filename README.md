@@ -1,5 +1,5 @@
-# Politecnico
-#----------------------
+## Politecnico
+---
 
 # Multiple of 100
 
@@ -25,5 +25,6 @@ Additionally, inside the `src/` folder you will find an **extra README file abou
 ```bash
 Enter an integer number: 12600
 multiple of 100
+
 
 
