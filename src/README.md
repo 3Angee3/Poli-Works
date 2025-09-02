@@ -15,6 +15,9 @@ A simple ATM simulation in Java.
 The solution is relevant because it fits the 
 unit problem (handling withdrawals in fixed multiples).
 
+## Step-by-step project guide:
+-You must download the project and open the “src” folder, where you will find the ATM program. You can also view the documentation from JavaDocs.
+
 ## Requirements
 - JDK 8 or higher
 - IntelliJ IDEA (recommended)
