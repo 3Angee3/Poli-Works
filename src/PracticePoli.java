@@ -31,8 +31,6 @@ public class PracticePoli
 
         System.out.println("Welcome to the ATM");
         System.out.println("Opening balance: $" + balance);
-
-
         //Input validations
         while (continueSession && balance > 0) {
             System.out.print("\nEnter the amount to be withdrawn (multiple of 5000):");
