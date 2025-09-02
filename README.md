@@ -1,29 +1,29 @@
-﻿# Poli-Works
-# ATM Practice
+# Politecnico
+#----------------------
 
-A simple ATM simulation in Java.
+# Multiple of 100
 
-## Features
-- Withdrawals in multiples of 5000
-- Validation of balance and amount
-- Breakdown of bills (50000, 20000, 10000, 5000)
-- Remaining balance update
+## Description
+This project checks whether a given integer is a **multiple of 100**.  
+The user enters an integer, and the program outputs:  
+- `"multiple of 100"` → if divisible by 100.  
+- `"not multiple of 100"` → otherwise.  
 
-## Explanation
+Additionally, inside the `src/` folder you will find an **extra README file about the ATM project**, which is considered an additional file in this repository.  
 
-- This project provides a simple ATM simulation where fundamental structures 
-(conditions, loops, Boolean data, accumulators) are applied.
-The solution is relevant because it fits the 
-unit problem (handling withdrawals in fixed multiples).
+---
 
-## Step-by-step project guide:
--You must download the project and open the “src” folder, where you will find the ATM program. You can also view the documentation from JavaDocs.
+## Input and Output
+- **Input:** an integer number.  
+- **Output:**  
+  - `"multiple of 100"` → if the number is divisible by 100.  
+  - `"not multiple of 100"` → otherwise.  
 
-## Requirements
-- JDK 8 or higher
-- IntelliJ IDEA (recommended)
+---
 
-## Run
+## Example Runs
 ```bash
-javac src/PracticePoli.java
-java PracticePoli
+Enter an integer number: 12600
+multiple of 100
+
+
