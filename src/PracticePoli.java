@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @since 1/9/2025
  The {@code PracticePoli} class simulates a simple ATM (Automated Teller Machine).
  * <p>
- * Features:
+ * Features 1:
  * <ul>
  *   <li>Withdrawals must be in multiples of 5,000.</li>
  *   <li>Validates that the withdrawal does not exceed the available balance.</li>
